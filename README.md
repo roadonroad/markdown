@@ -1,3 +1,3 @@
 # markdown
 
-![链接](link.md)
+[链接](link.md)
